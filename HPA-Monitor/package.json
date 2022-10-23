@@ -1,0 +1,11 @@
+{
+  "name": "container-scaling-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1233.0"
+  }
+}
